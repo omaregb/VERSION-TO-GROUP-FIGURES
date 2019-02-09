@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: main.aux
+The style file: achemso.bst
+Illegal, another \bibstyle command---line 128 of file main.aux
+ : \bibstyle
+ :          {achemso}
+I'm skipping whatever remains of this command
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: acs-main.bib
+Database file #2: references2.bib
+achemso 2018/02/05 v3.11a
+You've used 49 entries,
+            2536 wiz_defined-function locations,
+            1055 strings with 15793 characters,
+and the built_in function-call counts, 15874 in all, are:
+= -- 1297
+> -- 844
+< -- 28
++ -- 330
+- -- 281
+* -- 1705
+:= -- 2144
+add.period$ -- 90
+call.type$ -- 49
+change.case$ -- 4
+chr.to.int$ -- 2
+cite$ -- 49
+duplicate$ -- 880
+empty$ -- 1161
+format.name$ -- 358
+if$ -- 3135
+int.to.chr$ -- 0
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 316
+num.names$ -- 144
+pop$ -- 91
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 47
+stack$ -- 0
+substring$ -- 862
+swap$ -- 851
+text.length$ -- 97
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 325
+warning$ -- 0
+while$ -- 154
+width$ -- 0
+write$ -- 627
+(There was 1 error message)

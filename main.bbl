@@ -1,0 +1,436 @@
+\providecommand{\latin}[1]{#1}
+\makeatletter
+\providecommand{\doi}
+  {\begingroup\let\do\@makeother\dospecials
+  \catcode`\{=1 \catcode`\}=2 \doi@aux}
+\providecommand{\doi@aux}[1]{\endgroup\texttt{#1}}
+\makeatother
+\providecommand*\mcitethebibliography{\thebibliography}
+\csname @ifundefined\endcsname{endmcitethebibliography}
+  {\let\endmcitethebibliography\endthebibliography}{}
+\begin{mcitethebibliography}{49}
+\providecommand*\natexlab[1]{#1}
+\providecommand*\mciteSetBstSublistMode[1]{}
+\providecommand*\mciteSetBstMaxWidthForm[2]{}
+\providecommand*\mciteBstWouldAddEndPuncttrue
+  {\def\EndOfBibitem{\unskip.}}
+\providecommand*\mciteBstWouldAddEndPunctfalse
+  {\let\EndOfBibitem\relax}
+\providecommand*\mciteSetBstMidEndSepPunct[3]{}
+\providecommand*\mciteSetBstSublistLabelBeginEnd[3]{}
+\providecommand*\EndOfBibitem{}
+\mciteSetBstSublistMode{f}
+\mciteSetBstMaxWidthForm{subitem}{(\alph{mcitesubitemcount})}
+\mciteSetBstSublistLabelBeginEnd
+  {\mcitemaxwidthsubitemform\space}
+  {\relax}
+  {\relax}
+
+\bibitem[Adamson and Gast(1997)Adamson, and Gast]{adamson1967physical}
+Adamson,~A.~W.; Gast,~A.~P. \emph{Physical chemistry of surfaces}; John Wiley,
+  New York, 1997\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Dai \latin{et~al.}(2008)Dai, Leal, and Redondo]{dai2008disjoining}
+Dai,~B.; Leal,~L.~G.; Redondo,~A. Disjoining pressure for nonuniform thin
+  films. \emph{Physical Review E} \textbf{2008}, \emph{78}, 061602\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Bluteau \latin{et~al.}(2017)Bluteau, Bourrel, Passade-Boupat, Talini,
+  Verneuil, and Lequeux]{bluteau2017water}
+Bluteau,~L.; Bourrel,~M.; Passade-Boupat,~N.; Talini,~L.; Verneuil,~E.;
+  Lequeux,~F. Water film squeezed between oil and solid: drainage towards
+  stabilization by disjoining pressure. \emph{Soft matter} \textbf{2017},
+  \emph{13}, 1384--1395\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Basu and Sharma(1996)Basu, and Sharma]{basu_sharma_1996}
+Basu,~S.; Sharma,~M.~M. Measurement of Critical Disjoining Pressure for
+  Dewetting of Solid Surfaces. \emph{Journal of Colloid and Interface Science}
+  \textbf{1996}, \emph{181}, 443–455\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Dimitrova \latin{et~al.}(2001)Dimitrova, Leal-Calderon, Gurkov, and
+  Campbell]{dimitrova_leal-calderon_gurkov_campbell_2001}
+Dimitrova,~T.~D.; Leal-Calderon,~F.; Gurkov,~T.~D.; Campbell,~B. Disjoining
+  Pressure vs Thickness Isotherms of Thin Emulsion Films Stabilized by
+  Proteins. \emph{Langmuir} \textbf{2001}, \emph{17}, 8069–8077\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Kirby(2010)]{kirby2010micro}
+Kirby,~B.~J. \emph{Micro-and nanoscale fluid mechanics: transport in
+  microfluidic devices}; Cambridge university press, 2010\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Churaev and Sobolev(1995)Churaev, and Sobolev]{churaev_sobolev_1995}
+Churaev,~N.; Sobolev,~V. Prediction of contact angles on the basis of the
+  Frumkin-Derjaguin approach. \emph{Advances in Colloid and Interface Science}
+  \textbf{1995}, \emph{61}, 1–16\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Hilner \latin{et~al.}(2015)Hilner, Andersson, Hassenkam, Matthiesen,
+  Salino, and Stipp]{hilner2015effect}
+Hilner,~E.; Andersson,~M.~P.; Hassenkam,~T.; Matthiesen,~J.; Salino,~P.;
+  Stipp,~S. L.~S. The effect of ionic strength on oil adhesion in
+  sandstone--the search for the low salinity mechanism. \emph{Scientific
+  reports} \textbf{2015}, \emph{5}, 9933\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Mahani \latin{et~al.}(2015)Mahani, Berg, Ilic, Bartels, and
+  Joekar-Niasar]{mahani_berg_ilic_bartels_joekar-niasar_2015}
+Mahani,~H.; Berg,~S.; Ilic,~D.; Bartels,~W.-B.; Joekar-Niasar,~V. Kinetics of
+  Low-Salinity-Flooding Effect. \emph{SPE Journal} \textbf{2015}, \emph{20},
+  008–020\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Aziz \latin{et~al.}(2018)Aziz, Joekar-Niasar, and
+  Martinez-Ferrer]{AZIZ201851}
+Aziz,~R.; Joekar-Niasar,~V.; Martinez-Ferrer,~P. Pore-scale insights into
+  transport and mixing in steady-state two-phase flow in porous media.
+  \emph{International Journal of Multiphase Flow} \textbf{2018}, \emph{109}, 51
+  -- 62\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Sheng(2014)]{sheng_2014}
+Sheng,~J. Critical review of low-salinity waterflooding. \emph{Journal of
+  Petroleum Science and Engineering} \textbf{2014}, \emph{120}, 216–224\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Facanha \latin{et~al.}(2017)Facanha, Mahzari, and
+  Sohrabi]{facanha_mahzari_sohrabi_2017}
+Facanha,~J. M.~F.; Mahzari,~P.; Sohrabi,~M. Direct Observation of Low-Salinity
+  Water Effect: Relationship Between Micro-Dispersion Formation and Wettability
+  Alteration. \emph{SPE Middle East Oil \& Gas Show and Conference}
+  \textbf{2017}, \relax
+\mciteBstWouldAddEndPunctfalse
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Ligthelm \latin{et~al.}(2009)Ligthelm, Gronsveld, Hofman, Brussee,
+  Marcelis, and Linde]{ligthelm_gronsveld_hofman_brussee_marcelis_linde_2009}
+Ligthelm,~D.~J.; Gronsveld,~J.; Hofman,~J.; Brussee,~N.; Marcelis,~F.;
+  Linde,~H. V.~D. Novel Waterflooding Strategy By Manipulation Of Injection
+  Brine Composition. \emph{EUROPEC/EAGE Conference and Exhibition}
+  \textbf{2009}, \relax
+\mciteBstWouldAddEndPunctfalse
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Rivet \latin{et~al.}(2010)Rivet, Lake, and Pope]{rivet_lake_pope_2010}
+Rivet,~S.; Lake,~L.~W.; Pope,~G.~A. A Coreflood Investigation of Low-Salinity
+  Enhanced Oil Recovery. \emph{SPE Annual Technical Conference and Exhibition}
+  \textbf{2010}, \relax
+\mciteBstWouldAddEndPunctfalse
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Myint and Firoozabadi(2015)Myint, and
+  Firoozabadi]{myint_firoozabadi_2015}
+Myint,~P.~C.; Firoozabadi,~A. Thin liquid films in improved oil recovery from
+  low-salinity brine. \emph{Current Opinion in Colloid \& Interface Science}
+  \textbf{2015}, \emph{20}, 105–114\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Nasralla and Nasr-El-Din(2012)Nasralla, and
+  Nasr-El-Din]{nasralla_nasr-el-din_2012}
+Nasralla,~R.~A.; Nasr-El-Din,~H.~A. Double-Layer Expansion: Is It A Primary
+  Mechanism of Improved Oil Recovery by Low-Salinity Waterflooding? \emph{SPE
+  Improved Oil Recovery Symposium} \textbf{2012}, \relax
+\mciteBstWouldAddEndPunctfalse
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Ohshima(2012)]{DLVOBook}
+Ohshima,~H. \emph{Electrical Phenomena at Interfaces and Biointerfaces}; John
+  Wiley \& Sons, Inc., 2012; pp 27--34\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Masliyah and Bhattacharjee(2006)Masliyah, and
+  Bhattacharjee]{masliyah_bhattacharjee_2006}
+Masliyah,~J.~H.; Bhattacharjee,~S. \emph{Electrokinetic and colloid transport
+  phenomena}; Wiley-Interscience, 2006\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Li and Neumann(1991)Li, and Neumann]{li1991thermodynamics}
+Li,~D.; Neumann,~A. Thermodynamics of contact angle phenomena in the presence
+  of a thin liquid film. \emph{Advances in Colloid and Interface Science}
+  \textbf{1991}, \emph{36}, 125--151\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Choi \latin{et~al.}(2010)Choi, Sharma, Qian, Lim, and
+  Joo]{choi_sharma_qian_lim_joo_2010}
+Choi,~W.; Sharma,~A.; Qian,~S.; Lim,~G.; Joo,~S.~W. Is free surface free in
+  micro-scale electrokinetic flows? \emph{Journal of Colloid and Interface
+  Science} \textbf{2010}, \emph{347}, 153–155\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Binks \latin{et~al.}(1997)Binks, Cho, and
+  Fletcher]{binks_cho_fletcher_1997}
+Binks,~B.~P.; Cho,~W.-G.; Fletcher,~P. D.~I. Disjoining Pressure Isotherms for
+  Oil−Water−Oil Emulsion Films. \emph{Langmuir} \textbf{1997}, \emph{13},
+  7180–7185\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Manica \latin{et~al.}(2007)Manica, Connor, Carnie, Horn, and
+  Chan]{manica}
+Manica,~R.; Connor,~J.~N.; Carnie,~S.~L.; Horn,~R.~G.; Chan,~D. Y.~C. Dynamics
+  of Interactions Involving Deformable Drops: Hydrodynamic Dimpling under
+  Attractive and Repulsive Electrical Double Layer Interactions.
+  \emph{Langmuir} \textbf{2007}, \emph{23}, 626--637, PMID: 17209614\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Onsager(1949)]{onsager1949effects}
+Onsager,~L. The effects of shape on the interaction of colloidal particles.
+  \emph{Annals of the New York Academy of Sciences} \textbf{1949}, \emph{51},
+  627--659\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Zhang \latin{et~al.}(2017)Zhang, Borg, and Reese]{zhang2017multiscale}
+Zhang,~J.; Borg,~M.~K.; Reese,~J.~M. Multiscale simulation of dynamic wetting.
+  \emph{International Journal of Heat and Mass Transfer} \textbf{2017},
+  \emph{115}, 886--896\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Burrill and Woods(1969)Burrill, and Woods]{burrill1969change}
+Burrill,~K.; Woods,~D. Change in interface and film shapes for a deformable
+  drop at a deformable liquid-liquid interface: Part I. Film hydrodynamic
+  pressure distribution and interface shapes. \emph{Journal of Colloid and
+  Interface Science} \textbf{1969}, \emph{30}, 511--524\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Burrill and Woods(1973)Burrill, and Woods]{burrill1973film}
+Burrill,~K.; Woods,~D. Film shapes for deformable drops at liquid-liquid
+  interfaces. II. The mechanisms of film drainage. \emph{Journal of Colloid and
+  Interface Science} \textbf{1973}, \emph{42}, 15--34\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[De~Feijter \latin{et~al.}(1978)De~Feijter, Rijnbout, and
+  Vrij]{de1978contact}
+De~Feijter,~J.; Rijnbout,~J.; Vrij,~A. Contact angles in thin liquid films. I.
+  Thermodynamic description. \emph{Journal of Colloid and Interface Science}
+  \textbf{1978}, \emph{64}, 258--268\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Nicolini \latin{et~al.}(2017)Nicolini, Ferraz, and
+  Borges]{nicolini2017effect}
+Nicolini,~J.~V.; Ferraz,~H.~C.; Borges,~C.~P. Effect of seawater ionic
+  composition modified by nanofiltration on enhanced oil recovery in Berea
+  sandstone. \emph{Fuel} \textbf{2017}, \emph{203}, 222--232\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Sohrabi \latin{et~al.}(2017)Sohrabi, Mahzari, Farzaneh, Mills, Tsolis,
+  and Ireland]{sohrabi2017novel}
+Sohrabi,~M.; Mahzari,~P.; Farzaneh,~S.~A.; Mills,~J.~R.; Tsolis,~P.;
+  Ireland,~S. Novel insights into mechanisms of oil recovery by use of
+  low-salinity-water injection. \emph{SPE Journal} \textbf{2017}, \emph{22},
+  407--416\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Omekeh \latin{et~al.}(2012)Omekeh, Friis, Fjelde, and
+  Evje]{omekeh2012modeling}
+Omekeh,~A.~V.; Friis,~H.~A.; Fjelde,~I.; Evje,~S. Modeling of ion-exchange and
+  solubility in low salinity water flooding. \textbf{2012}, \relax
+\mciteBstWouldAddEndPunctfalse
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Sorbie and Collins(2010)Sorbie, and Collins]{sorbie2010proposed}
+Sorbie,~K.~S.; Collins,~I. A proposed pore-scale mechanism for how low salinity
+  waterflooding works. \textbf{2010}, \relax
+\mciteBstWouldAddEndPunctfalse
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Haagh \latin{et~al.}(2017)Haagh, S{\^\i}retanu, Duits, and
+  Mugele]{haagh2017salinity}
+Haagh,~M. E.~J.; S{\^\i}retanu,~I.; Duits,~M.; Mugele,~F. Salinity-dependent
+  contact angle alteration in oil/brine/silicate systems: the critical role of
+  divalent cations. \emph{Langmuir} \textbf{2017}, \emph{33}, 3349--3357\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Datta \latin{et~al.}(2009)Datta, Conlisk, Li, and
+  Yoda]{datta2009effect}
+Datta,~S.; Conlisk,~A.; Li,~H.; Yoda,~M. Effect of divalent ions on
+  electroosmotic flow in microchannels. \emph{Mechanics research
+  communications} \textbf{2009}, \emph{36}, 65--74\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Zheng \latin{et~al.}(2003)Zheng, Hansford, and
+  Conlisk]{zheng2003effect}
+Zheng,~Z.; Hansford,~D.~J.; Conlisk,~A.~T. Effect of multivalent ions on
+  electroosmotic flow in micro-and nanochannels. \emph{Electrophoresis}
+  \textbf{2003}, \emph{24}, 3006--3017\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Chen and Singh(2002)Chen, and Singh]{chen_singh_2002}
+Chen,~Z.; Singh,~R.~K. General Solution for Poisson–Boltzmann Equation in
+  Semiinfinite Planar Symmetry. \emph{Journal of Colloid and Interface Science}
+  \textbf{2002}, \emph{245}, 301–306\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Mao \latin{et~al.}(2014)Mao, Sherwood, and
+  Ghosal]{mao_sherwood_ghosal_2014}
+Mao,~M.; Sherwood,~J.~D.; Ghosal,~S. Electro-osmotic flow through a nanopore.
+  \emph{Journal of Fluid Mechanics} \textbf{2014}, \emph{749}, 167–183\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Kler \latin{et~al.}(2009)Kler, López, Dalcín, Guarnieri, and
+  Storti]{kler_lópez_dalcín_guarnieri_storti_2009}
+Kler,~P.~A.; López,~E.~J.; Dalcín,~L.~D.; Guarnieri,~F.~A.; Storti,~M.~A.
+  High performance simulations of electrokinetic flow and transport in
+  microfluidic chips. \emph{Computer Methods in Applied Mechanics and
+  Engineering} \textbf{2009}, \emph{198}, 2360–2367\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Joekar-Niasar and Mahani(2016)Joekar-Niasar, and
+  Mahani]{joekar-niasar_mahani_2016}
+Joekar-Niasar,~V.; Mahani,~H. Nonmonotonic Pressure Field Induced by Ionic
+  Diffusion in Charged Thin Films. \emph{Industrial \& Engineering Chemistry
+  Research} \textbf{2016}, \emph{55}, 6227–6235\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Kumar and Biswas(2010)Kumar, and Biswas]{kumar2010contribution}
+Kumar,~D.; Biswas,~S.~K. Contribution of different physical forces to the
+  disjoining pressure of a thin water film being pressed by an oil droplet.
+  \emph{Journal of colloid and interface science} \textbf{2010}, \emph{348},
+  255--264\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Krabbenh{\o}ft and Krabbenh{\o}ft(2008)Krabbenh{\o}ft, and
+  Krabbenh{\o}ft]{krabbenhoft2008application}
+Krabbenh{\o}ft,~K.; Krabbenh{\o}ft,~J. Application of the
+  Poisson--Nernst--Planck equations to the migration test. \emph{Cement and
+  Concrete Research} \textbf{2008}, \emph{38}, 77--88\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Butt \latin{et~al.}()Butt, Graf, and Kappl]{butt373physics}
+Butt,~H.~J.; Graf,~K.; Kappl,~M. Physics and chemistry of interfaces.
+  2003\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Revil and Linde(2006)Revil, and Linde]{revil2006chemico}
+Revil,~A.; Linde,~N. Chemico-electromechanical coupling in microporous media.
+  \emph{Journal of colloid and interface science} \textbf{2006}, \emph{302},
+  682--694\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Stratton(2007)]{stratton2007electromagnetic}
+Stratton,~J.~A. \emph{Electromagnetic theory}; John Wiley \& Sons, 2007\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Greenshields(2018)]{greenshields_2018}
+Greenshields,~C. The OpenFOAM Foundation. 2018;
+  \url{http://www.openfoam.org/}\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Behrens(2009)]{behrens2009openfoam}
+Behrens,~T. OpenFOAM's basic solvers for linear systems of equations.
+  2009\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Karraker and Radke(2002)Karraker, and Radke]{karraker2002disjoining}
+Karraker,~K.; Radke,~C. Disjoining pressures, zeta potentials and surface
+  tensions of aqueous non-ionic surfactant/electrolyte solutions: theory and
+  comparison to experiment. \emph{Advances in colloid and interface science}
+  \textbf{2002}, \emph{96}, 231--264\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Ebeling \latin{et~al.}(2011)Ebeling, van~den Ende, and
+  Mugele]{EbelingDaniel2011Eifi}
+Ebeling,~D.; van~den Ende,~D.; Mugele,~F. Electrostatic interaction forces in
+  aqueous salt solutions of variable concentration and valency.
+  \emph{Nanotechnology} \textbf{2011}, \emph{22}, 305706\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Bazant \latin{et~al.}(2009)Bazant, Kilic, Storey, and
+  Ajdari]{bazant2009nonlinear}
+Bazant,~M.~Z.; Kilic,~M.~S.; Storey,~B.~D.; Ajdari,~A. Nonlinear
+  electrokinetics at large voltages. \emph{New Journal of Physics}
+  \textbf{2009}, \emph{11}, 075016\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\end{mcitethebibliography}

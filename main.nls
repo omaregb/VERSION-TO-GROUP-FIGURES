@@ -1,0 +1,62 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{$\epsilon$}]\begingroup Electric permittivity $[F/m]$\nomeqref {13}
+		\nompageref{22}
+  \item [{$\lambda$}]\begingroup Debye screening length $[m]$\nomeqref {13}
+		\nompageref{22}
+  \item [{$\psi$}]\begingroup Electrical potential $[V]$\nomeqref {13}
+		\nompageref{22}
+  \item [{$\rho$}]\begingroup Net charge density $[C/m^3]$\nomeqref {13}
+		\nompageref{22}
+  \item [{$\tilde{\phi}$}]\begingroup Dimensionless electrical potential\nomeqref {13}
+		\nompageref{22}
+  \item [{$\tilde{\Pi}$}]\begingroup Dimensionless osmotic pressure\nomeqref {13}
+		\nompageref{22}
+  \item [{$\tilde{\Pi}_{dyn}$}]\begingroup Dynamic osmotic pressure (dimensionless)\nomeqref {13}
+		\nompageref{22}
+  \item [{$\tilde{\Pi}_{eq}$}]\begingroup Equilibrium osmotic pressure (dimensionless)\nomeqref {13}
+		\nompageref{22}
+  \item [{$\tilde{\rho}$}]\begingroup Reduced charge density\nomeqref {13}
+		\nompageref{22}
+  \item [{$\tilde{c_i}$}]\begingroup Dimensionless concentration\nomeqref {13}
+		\nompageref{22}
+  \item [{$\tilde{P}$}]\begingroup Total dimensionless disjoining pressure\nomeqref {13}
+		\nompageref{22}
+  \item [{$\tilde{p}_{dyn}$}]\begingroup Dimensionless disjoining pressure relative to $\tilde{\Pi}_{dyn}$\nomeqref {13}
+		\nompageref{22}
+  \item [{$\tilde{p}_{eq}$}]\begingroup Dimensionless disjoining pressure relative to $\Pi_{eq}$\nomeqref {13}
+		\nompageref{22}
+  \item [{$c_i$}]\begingroup Concentration of i-th species $[mol/m^3]$\nomeqref {13}
+		\nompageref{22}
+  \item [{$C_i^\infty$}]\begingroup Bulk concentration if i-th species $[mol/m^3]$\nomeqref {13}
+		\nompageref{22}
+  \item [{$D_i$}]\begingroup Diffusion coefficient of i-th species $[m^2/s]$\nomeqref {13}
+		\nompageref{22}
+  \item [{$D_{ref}$}]\begingroup Reference diffusion coefficient $[m^2/s]$\nomeqref {13}
+		\nompageref{22}
+  \item [{$E$}]\begingroup Electric field $[V/m]$\nomeqref {13}
+		\nompageref{22}
+  \item [{$e_c$}]\begingroup Electron charge $[C]$\nomeqref {13}
+		\nompageref{22}
+  \item [{$I$}]\begingroup Identity matrix\nomeqref {13}\nompageref{22}
+  \item [{$J_i$}]\begingroup Total flux of i-th species\nomeqref {13}
+		\nompageref{22}
+  \item [{$k_B$}]\begingroup Boltzmann's constant $[J/K]$\nomeqref {13}
+		\nompageref{22}
+  \item [{$N_A$}]\begingroup Avogadro constant\nomeqref {13}
+		\nompageref{22}
+  \item [{$n_x, n_y$}]\begingroup Normal unit vectors in x and y direction.\nomeqref {13}
+		\nompageref{22}
+  \item [{$P$}]\begingroup Total pressure $[Pa]$\nomeqref {13}
+		\nompageref{22}
+  \item [{$T$}]\begingroup Absolute temperature $[T]$\nomeqref {13}
+		\nompageref{22}
+  \item [{$t$}]\begingroup Time $[s]$\nomeqref {13}\nompageref{22}
+  \item [{$U$}]\begingroup Velocity $[m/s]$\nomeqref {13}
+		\nompageref{22}
+  \item [{$z_i$}]\begingroup Valency of i-th species\nomeqref {13}
+		\nompageref{22}
+
+\end{thenomenclature}

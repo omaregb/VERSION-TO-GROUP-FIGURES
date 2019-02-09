@@ -1,0 +1,29 @@
+\nomenclatureentry{a$\psi$@[{$\psi$}]\begingroup Electric potential $[V]$\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$N_A$@[{$N_A$}]\begingroup Avogadro constant\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$e_c$@[{$e_c$}]\begingroup Elementary charge $[C]$\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$\epsilon$@[{$\epsilon$}]\begingroup Electric permittivity $[F/m]$\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$z_i$@[{$z_i$}]\begingroup Valency of i-th species\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$C_i^\infty$@[{$C_i^\infty$}]\begingroup Bulk concentration if i-th species $[mol/m^3]$\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$k_B$@[{$k_B$}]\begingroup Boltzmann's constant $[J/K]$\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$T$@[{$T$}]\begingroup Absolute temperature $[T]$\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$\rho$@[{$\rho$}]\begingroup Net charge density $[C/m^3]$\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$D_i$@[{$D_i$}]\begingroup Diffusion coefficient of i-th species $[m^2/s]$\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$U$@[{$U$}]\begingroup Velocity $[m/s]$\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$c_i$@[{$c_i$}]\begingroup Concentration of i-th species $[mol/m^3]$\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$t$@[{$t$}]\begingroup Time $[s]$\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$\lambda$@[{$\lambda$}]\begingroup Debye screening length $[m]$\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$\tilde{\phi}$@[{$\tilde{\phi}$}]\begingroup Dimensionless electric potential\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$\tilde{c_i}$@[{$\tilde{c_i}$}]\begingroup Dimensionless concentration\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$D_{ref}$@[{$D_{ref}$}]\begingroup Reference diffusion coefficient $[m^2/s]$\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$J_i$@[{$J_i$}]\begingroup Total flux of i-th species\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$P$@[{$P$}]\begingroup Total pressure $[Pa]$\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$\tilde{\Pi}$@[{$\tilde{\Pi}$}]\begingroup Dimensionless osmotic pressure\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$\tilde{\Pi}_{eq}$@[{$\tilde{\Pi}_{eq}$}]\begingroup Equilibrium osmotic pressure (dimensionless)\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$\tilde{\Pi}_{dyn}$@[{$\tilde{\Pi}_{dyn}$}]\begingroup Dynamic osmotic pressure (dimensionless)\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$E$@[{$E$}]\begingroup Electric field $[V/m]$\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$I$@[{$I$}]\begingroup Identity matrix\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$\tilde{\rho}$@[{$\tilde{\rho}$}]\begingroup Reduced charge density\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$n_x, n_y$@[{$n_x, n_y$}]\begingroup Normal unit vectors in x and y direction.\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$\tilde{P}$@[{$\tilde{P}$}]\begingroup Total dimensionless disjoining pressure\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$\tilde{p}_{eq}$@[{$\tilde{p}_{eq}$}]\begingroup Dimensionless disjoining pressure relative to $\Pi_{eq}$\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{a$\tilde{p}_{dyn}$@[{$\tilde{p}_{dyn}$}]\begingroup Dimensionless disjoining pressure relative to $\tilde{\Pi}_{dyn}$\nomeqref {0}|nompageref}{3}
